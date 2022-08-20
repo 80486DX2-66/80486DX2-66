@@ -1,0 +1,194 @@
+
+               oOoOo  .oOOOo.  OooOOo.  oOoOOoOOo Oo      oO  .oOOOo.
+              o    O  o     o  O     `O     o     O O    o o  o     o
+             O     o  O.       o      O     o     o  o  O  O  O     O
+            oOooOoOo   `OOoo.  O     .o     O     O   Oo   O  oOooOO.
+            o      O        `O oOooOO'      o     O        o  o     `O
+            O      o         o o            O     o        O  O      o
+            o      O  O.    .O O            O     o        O  o     .O
+            O.     O   `oooO'  o            o     O        o  `OooOO'
+        \__________________                             __________________/
+                           NkZoeo>_,    `c    ""+e9Xa9RN
+                          /8*  "  ~             1 ; ]oW Qk
+                         N+]>"  " _   - `.!-"   > "- "xg]R
+               8vz[wN     e.."z*}> "1  """,~`  ~>^ ^[Zrr&      K*yoeN
+              GoAvvAoapN9  ycZ"+._+.+]Tr"  "vJuu+v_v"+!1"G  Neo]u!xzx
+              v1-x[x]u/1  ;[>J>"-"x-`-;^+r1r^_-"_1i>i|-"  6p1_"A*1!]e6
+             6   ;""~.~^-iyc1|> i/z9+;`,~-`--^1[[9l}1 ~ 1 .~   .~~ >iN
+            N1- ^`^    ,~"-l+}c ~+`roG^-ro][-1+AeZ^"17vx  `_    ~_ +!#
+            o. .-~^r      ;_-c, ";- _-- .` ._1_;c/+_"!*--_ .   c^"` >uN
+           &;` _-~_cN_        v"" _. ~^`-"|c+^- ;` `^+;~-  - .~*/`~ !>b
+           ]   "-;!kWG"     .-          vr]iT/      ,~-   ` _^_!J`_  !Z
+           ;. `;;;"^.HHr     ~         v[}P]}u^  ~  -  `. ~u[+;>[.-` >>RN
+          #-  -^^+9Kv+}PR| ""  ~]o"    >y[]J[[r  >+.  1v"/@w*|". - ` ;+6
+         W;~ ;-^>Q      R#Zc/o_+;*_    -1}uZ[.   41"z*z>Xp#@N 8/"["-- +rg
+        p"" "-`>N            k^..  .   -~;/"_`  -.~_.|N        G>ru-`. !vN
+        i_  - u9g                       \~  "`                 @x+]r ` +"p
+       W__ -_"}Gg                        `\_~ (                bG96c. ..+x
+     RK+>~.-.z>R                           /~  \               NlkWA`   /1W
+    NR _W6* !96#                  _.,,.._.,.~  "               NGvWX*   ;+Z
+   NW_`WKa  6@                   |/ \/* '' \-  ;               NgG@g#"~~pWxyR
+   Q8 ]#p` ;W                     ;---=-==-=e   *                   Ru  HHK"H
+ QbHoi6Pp- KN                   /";__/\;_,;_.`*"'                   NP  z6g ]N
+ bppeH#G9G9GpN                                                       W^"TP8c/RN
+ R8wG6GX46668N                                                     Qp9ZZX]9b]ob
+
+====3>========3>========3>========3>========3>========3>========3>========3>====
+
+Genetic project  : 'Arenea cerebrum machinis', 'Mechamastermind', 'Repsycless'
+                   'Artifispider', 'Mecharachnocerebrum', 'Asynchronous Signal
+                   Perception and Tentacle-Manipulating Brain' or 'ASPTMB';
+Author           :
+    Larry Holst; 'Diicorp95'
+    > larry.holst@disroot.org
+    > http://github.com/Diicorp95
+Expected license : N/A (even an artifical, biorganism cannot be licensed)
+General purpose  :
+    A life form, to be accommodated and tested.
+Description      :
+    A  bio-mechanic machine with  artifical intellegence  that can dig through
+    any loose (like fluids) and dense (like concrete buildings) substances.
+
+>>> Technical description of body
+    The  set  out  above biorganism represents a  1370mm*960mm*1370mm machine.
+All   its  parts   are   para-mechanized  and  can   be  passed  on   to  next
+generations without any corruptions.
+    Pistons (legs, paws)  can  push  with up  to  8 megajoules  of force. Each
+piston is a specific leg with a part that's on which it stands, and  a kind of
+elbow between the larger part of the piston and the short part, connecting to
+the main platform.  Each leg is fixed  on a rotary axis, and it's sticking out
+at 45°.
+    It  can  rest.  In  order  to  do  that,  it can fold its legs underneath.
+It  weighs  12kg:  brain,  motherboard,  disks,  tentacles  (and  its  motor),
+reproductive   organs  (including  620ml  tanks   with  reproductive  liquid),
+electronic AC/DC converter, energy generator, voltage protector, biofuel tank,
+additional microchips, autonomous sensors (triggers).
+    If  you  will spell it a special key,  it will power off itself and unlock
+hatches to  its  inner parts. When you are done with it, simply spell another.
+Autonomous  sensors  will turn the  big  brain  back on,  unless  they are not
+dismounted. It also features a tank with  self-regenerative chromosomes, which
+can be refilled while the tank is on outside interference.
+    The  tentacles  are  made  of a  synthesized substance: myosin + calcium +
++ silicon, wrapped in a black elastic skin-alike sheath.  The sheath have pink
+pattern in style of  ancient greeks.  They can dig through substances of 1-950
+g/cm^3 density,  including viscous ones.  The tentacles are wrapped around the
+motor,  and  they come out under  the metallic plate through the special tube,
+and further, tight lockable hatch. They have the mechanism of  semen speading,
+a sense of temperature, echolocation of space. If the tentacles are  being cut
+off by the creature itself, they will turn into a solution of water.
+    The  core  of  the  brain,   central  nervous   system,  and  other  parts
+are  para-mechanized  and  some  of them  are  built of synthesized biological
+substances. The  brain  is located  on a mounting limb (45mm*280mm*45mm) which
+is  connected  to the  primary 4 moving  pistons. The  computer  parts  run on
+24 volts of DC voltage.
+    It  has 2 eyes  that  are  blue  in  colour. Its eyes  can see, recognize,
+differentiate, and  focus on  objects.  The  information  from  eyes is  being
+transferred to brain and main computer.
+    It have nasal receptors that can receive smells (analogue of a nose).  The
+information  from  receptors is  being transferred  only to  brain.  It's  not
+necessary  to   main  computer  because  the  artifical intellegence  does not
+handles this kind of information. However, the brain itself can detect a smell
+and will activate odour—action neuronal circuits automatically.
+    The main platform  is equipped with  a laser.  The laser itself represents
+a  metallic box  with  a round hole,  in which a special glass pane is tightly
+inserted. This laser can be classified as a vital organ because it's connected
+to power sockets. The creature usually uses the laser as one of its weapons.
+(The part will be copied from the papers soon)
+
+>>> Behaviour patterns
+    A W A K E. When it is awake, CNS can move into another state. Else it will
+scan  environment to  prepare  before fighting  back against attackers or kill
+hackers  that  are  trying  to  interrupt,  debug,   or  break  active machine
+performance.
+    E X P L O R A T I O N. When  it  is ready for adventures,  it  can explore
+certain things, depending on its education and/or knowledge.
+    W A L K. When it inspects area, breathing the  fresh air in morning, takes
+shelter, or whenever it walks on its legs, it walks. It also can crawl, climb,
+jump, swim. Always actively searchs for enemies and unstable substances. If it
+finds, it takes measures to protect itself.
+    T R A I N I N G. As  with  other  neural networks, it can train when it is
+time to.  During an educational process, it can collect and save (write) data.
+    S E A R C H. [Flawless creatures do not have this behaviour pattern] If it
+is  manufactured  in  Japan,  the  following  bug can happen: the machine will
+search for  a homo sapiens (human sentient)  of  opposite gender  to proceed a
+reproduction act. Engineers speculate,  the defective component are tentacles.
+A  wide  amount of Japanese literature  already has covered the same behaviour
+of octopuses  that hunt down  for a victim  to  rape, although the act have no
+reproductive sense.
+    R E L A X. It   can  rest   like  humans   do,  like   computers  go  into
+hibernation.  Usually,  it folds its legs underneath and  coil back or cut off
+its tentacles (if they're stuck somewhere or too far away).
+    S L E E P. When   the   creature  is  going  to  rest  for  a  long  time,
+it  inspects area  for  enemies (hackers,  attackers)  and unstable substances
+(explosives, acids, etc.)
+(The part will be copied from the papers soon)
+
+>>> Artifical intellegence
+    The  artifical  intellegence  have  knowledge  about  the  world,  humans,
+materials, substances. The creature has  it as a essential part  of the brain:
+It  recognizes  people,  speech,  actions, faces, objects with help of it. The
+necessary  information to  move out and act is  located  there,  and this kind
+of information  cannot be  deleted  due to certain  security measures. As with
+other artificial intelligences, this one can learn from  the  world around it,
+and people.
+
+>>> CNS
+    The central neural system plays an important role in order to be sentient.
+It thinks  about emotional response  on  itself, without  a request. This part
+controls the  sequence of actions,  appropriate  choice of  behaviour pattern.
+Unlike a  human being,  the creature  doesn't  have moods and always in a cold
+form of conscioussness.  It means that  thoughts are never subject to emotion,
+but that does not invalidate humanity of the creature.
+
+>>> Vital organs
+The vital organs are:
+ - brain
+ - artifical intellegence
+ - CNS
+ - eyes
+ - laser
+ - electronic AC/DC converter
+ - voltage protection mechanism
+ - motherboard
+ - CPU area
+ - FPU block area
+ - autonomous sensors
+ - RAM sticks area
+ - neurotic muscles
+
+>>> Characteristics
+- Character: cheerful, intellegent, accurate, well-defined, sports-active,
+  resistant, stubborn.
+- Human-friendly: Yes; except it can detect evil people.
+- Can be domestic: Yes; albeit it may not fit in a regular house.
+- Can obey commands: Yes; but if it is not busy.
+- Can talk: No
+- Can train like a dog: Yes; show it once, confirm, and that's it.
+- Can spy: Yes
+- Can cooperate: Yes
+(The part will be copied from the papers soon)
+
+>>> Real components names table
+,----------------------------,---------------------------------------,
+| A part                     |          Term that is used in project :
+'----------------------------`---------------------------------------'
+| Brain                      |                             Brain (M) |
+| Central neural system      |             Principalis timidus (TIP) |
+| Neurotic muscle            |                    Hyposnaphors (HSP) |
+| CPU area                   |       Register calculis medulla (RCM) |
+| FPU block area             |       Calculus punctum natantis (CPN) |
+| RAM sticks area            | Portator temporaliterus servium (PTS) |
+| Motherboard                |                Pelagus unifier (PELU) |
+| Vital organ                |             Occulta longe intra (OLI) |
+| Autonomous sensor          | Sentio somnium expergisciminium (SSE) |
+`----------------------------"---------------------------------------'
+(The part will be copied from the papers soon)
+
+>>> Notes
+- Dimensions are specified in Width*Height*Length format (millimetres).
+- The creatures currently are being manufactured in Quadram Institute
+  Bioscience of United Kingdom, NCNP of Japan, Detroit of United States.
+
+The document is distributed under MIT License.
+
+- - - - - - -  The paper was written by Larry Holst AKA Diicorp95  - - - - - - -

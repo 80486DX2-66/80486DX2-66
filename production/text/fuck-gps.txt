@@ -1,0 +1,42 @@
+Android devices with Google services
+────────────────────────────────────
+Scumbag apps (like Facebook) use Google Play Services to legally eavesdrop and
+display  advertisements  using collected information  about you.  Surely, they
+can't  directly  access microphones.  However,  Google works  with them.  When
+you're   just   surfing  Internet   from   other   devices,  you   may  notice
+personalized ads, if you're  connected to  Internet  with  same  IP address as
+your Android device. Unfortunately, this unhealthy feature  cannot be disabled
+anywhere. Many organisations are bribed, including but not limited to:
+ - Google
+ - Facebook
+ - Twitter
+ - Microsoft
+ - Apple
+ - Samsung
+ - Yandex
+Thus you can see personalised content  on Spotify, YouTube, Facebook, Twitter,
+and other. This is how they make money.
+
+The lack of digital freedom that spoils your peaceful life is a result of
+ 1) closed systems
+ 2) cohesive evil deeds of large corporations
+ 3) large corporations activities
+ 4) Supercookies and Third-Party cookies
+
+In order to  prevent further Google atrocities,  the following measures should
+be applied
+ 1) decentralise web services
+ 2) disclose source codes of web services
+ 3) make an easy and quick way to be registered anonymously
+ 4) never track users
+ 5) make the current Internet anonymous
+ 5.1) provide secure, fast, encrypted, available to everyone VPNs
+ 5.2) make an easy and quick way to change MAC address or spoof it
+ 5.3) use DNS over HTTPS (a.k.a. DOH) technology en masse
+ 6) use devices with pure Android firmware (no Google Play services, Facebook,
+    and other bloatware)
+ 7) do not use any Apple devices
+
+Noone cares about your privacy.
+
+- Larry Holst (Diicorp95). Licensed under MIT License.

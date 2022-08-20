@@ -1,0 +1,18 @@
+ ============= Hot Key Library for IBM PC/AT-Compatible Machines ==============
+
+> Exit
+For operating systems with TUI (like MS-, PC-, DR-, FreeDOS, Linux), in a
+terminal/command prompt session, or in a special app:
+  Escape
+  Alt + X
+  F10
+  Ctrl + C
+  Ctrl + D
+  Ctrl + Z
+
+If none of the above works, press Ctrl + Alt + Delete. If that doesn't help
+either, turn the computer off and on again. If the computer fails to boot, then
+BIOS/(U)EFI, ROM, or a combination of them is damaged; however, it could also
+be a hardware problem.
+
+- - - - - - -  The paper was written by Larry Holst AKA Diicorp95  - - - - - - -

@@ -1,0 +1,41 @@
+Software project : 'Digital Data Via Morse Code or TeleType', 'DDVMCTT'
+Author           :
+    Larry Holst; 'Diicorp95'
+    > larry.holst@disroot.org
+    > http://github.com/Diicorp95
+Expected license : MIT License
+General purpose  :
+    A standard for digital data transferring via morse code, teletypes, etc.
+
+>>> Technical description
+Encoded in morse code, message in form
+
+    mime={MIME_type};length={length_sign};data=[{data_in_hex}]
+
+    Where:
+    {MIME_type}      MIME type of the data, e.g. text/plain or image/jpeg.
+                     It is needed for a program to parse the file as it should
+                     be. If empty, then do not fill the blank (no whitespaces)
+    {length_sign}    Length of the byte sequence in hexadecimal form, e.g. 0c,
+                     or 13 in decimal form. If you do not want to specify
+                     length, leave empty; however, it's not recommended.
+                     The valid range is any number that's greater than zero.
+                     Else, length is not specified or specified not properly.
+    {data_in_hex}    Byte sequence in hexadecimal form with zero padding.
+                     Alphabet: 0 1 2 3 4 5 6 7 8 9 a b c d e f
+                     For example, 48656c6c6f2c20576f726c6421 is valid notation
+                     The blank cannot be empty.
+
+will be an encoded data in the DDVMCTT standard. For example:
+
+    mime=text/plain;length=0c;data=[48656c6c6f2c20576f726c6421]
+
+in ASCII form will mean "Hello, World!". An example for dynamic determination:
+
+    mime=;length=;data=[48656c6c6f2c20576f726c6421]
+
+.
+
+The document is distributed under MIT License.
+
+- - - - - - -  The paper was written by Larry Holst AKA Diicorp95  - - - - - - -

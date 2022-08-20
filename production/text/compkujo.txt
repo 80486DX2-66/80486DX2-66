@@ -1,0 +1,222 @@
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │                                                                     │
+  │        /---,---,---,---,---,---,---,---,---,---,---,---,-------,    │
+  │         \1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 0 | + | ' | <-    |#   │
+  │          /-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-----|#   │
+  │     ,-   \ Q | W | E | R | T/__%___%___%___%___%_/ ] | ^ |   | |#   │
+  │     | S  /,--'____,--',--',-\____________________|,___,--'|  | |#   │
+  │ ,   '-  '\| A |_%_| D | F | G\__%___%___%___%___/ |_%_| * | <O |#   │
+  │ |       /-'-,-'___'-,-'-,-'-,-'-,-'-,-'-,-'-,-'-,-'\_/'---'----|#   │
+  │ ,  ,--,  \< | Z | X | C | V | B | N | M | , | . | - |          |#   │
+  │     _    /,-',--'--,'---'---/---'---'---'---'-,-'---',--,------|#   │
+  │     z    \|  | alt |        \__________%%_____|altgr |  | ctrl |#   │
+  │     z   /-'  '-----'---------/________________'------'  '------'#   │
+  │     *     #######################################################   │
+  │                                                                     │
+  └─═ Thanks > Nieminen Mika (Original ASCII art) ═────────═ Logotype ═─┘
+
+Software project : 'Compkujo'
+Author           :
+    Larry Holst; 'Diicorp95'
+    > larry.holst@disroot.org
+    > http://github.com/Diicorp95
+Expected license : MIT License, Open-Source
+General purpose  :
+    Overall data destruction, removal of all user activity traces.
+Description      :
+    An open-source program  for MS-DOS,  FreeDOS,  Windows 9x,  Windows NT 4.0+,
+    Windows NT  8.0+,  Linux  (Debian,  Arch,  elementOS,  and  other  popular).
+    There's a destruction countdown, with the Sci-Fi bleep sounds synthesized in
+    real-time  (counts on PC Beeper,  then MIDI cards,  then Covox,  on more new
+    soundcards).  If there's  nothing  of above,  the  sound effects  are played
+    through the Primary Master HDD ticking, if there is one; if not, the special
+    effects are  flanked by colour  on the screen from which  the program itself
+    was started (where the menu is actually displayed). Video output will be via
+    direct ports, DirectDraw, DirectX, and others. The menu design  is in Sci-Fi
+    style, like LCARS. When timer reachs 0:00:00 (starting from 00:01:59),  then
+    real destruction with informative log begins.
+┌──────────────────────────────────────────────────────────────────────────────┐
+
+   COMPKUJO - Your personal PC destructor.
+
+                _-_.
+             _-',^. `-_.
+         ._-' ,'   `.   `-_
+        !`-_._________`-':::
+        !   /\ DISKS, /\::::
+        ;  /  \ BYE! /..\:::
+        ! /    \    /....\::
+        !/      \  /......\:
+        ;--.___. \/_.__.--;;
+         '-_    `:!;;;;;;;'
+            `-_, :!;;;''
+                `-!'
+
+ - Not empty FDD 1 @ FDD detected successfully
+ - HDD 1 @ IDE detected successfully
+ - HDD 2 @ SCSI detected successfully
+ - SDD 1 @ SATA detected successfully
+ - USB 1 "TRANSCEND" detected successfully
+
+
+
+
+
+
+
+└─═ Example of destruction log (text mode 80x25) ═───────────────═ Picture 1 ═─┘
+    The square noise (like in chiptunes) is played through, when system is
+	destructed.
+
+1. Builds
+  1. Filename structure
+    `compkujo_286_freedos.zip`
+     │        │   │       │
+     1        2   3       4
+
+    (1) Software name (see Software Project field)
+    (2) Minimal required CPU (e.g. 686)
+    (3) Operating system (e.g. Debian 10)
+    (4) Optimal archive type for the OS (e.g. tar+gz for Linux-based)
+  2. DOS-like
+    1. MS-DOS `compkujo_286_ms-dos.zip`
+    2. FreeDOS `compkujo_286_freedos.zip`
+    3. Other (compatible with DR-DOS) `compkujo_286_dr-dos.zip`
+  3. Microsoft Windows [family]
+    1. Windows 3.x - Windows 3.0, 3.1, 3.11 `compkujo_286_win3x.zip`
+    2. Windows 9x - Windows 95, 98, ME `compkujo_486_win9x.zip`
+    3. Windows NT 4.x-5.x
+       `compkujo_586_winnt5.zip` - NT 4.0, 5.0
+       `compkujo_586_winxp.zip` - XP
+    4. Windows NT 6.x
+       `compkujo_686_winvista.zip` - Vista
+       `compkujo_686_win7.zip` - 7
+       `compkujo_686_win8.zip` - 8, 8.1
+    6. Windows NT 10.x - from Windows 10 Build 1 to its newer builds
+    `compkujo_686_win8.zip`
+    7. Linux x86 kernel
+       `compkujo_linux_286.zip` - 286+
+       `compkujo_linux_386.zip` - 386+
+       `compkujo_linux_486.zip` - 486+
+       `compkujo_linux_586.zip` - 586+
+       `compkujo_linux_686.zip` - 686+
+
+2. Preferences, options, settings
+  * Various methods of disk destruction:
+    - Aperiodic [1..3] cycles of zeros (user can define any byte sequence,
+      from 1 to 4096 bytes) [Default]
+    - Format with random S/N and generic (randomly it can be empty) label
+    - Blancco SSD Erasure [Only if (at least one) SSD is present]
+    - DoD 5220.22-M ECE
+    - HMG Infosec Standard 5, Lower and Higher Standards
+    - National Computer Security Center-TG-025
+  * BIOS determination bruteforce and following destruction
+
+3. Pseudo-code before build
+= = CODE STARTS HERE = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+  MenuDraw: procedure {
+    // Drawing the Cool Menu
+    If graphical modes available Then {
+      ? Make Use Of Them ?
+    } Else If custom text modes available Then {
+      ? Make Use Of Them ?
+    } Else {
+┌──────────────────────────────────────────────────────────────────────────────┐
+
+   COMPKUJO - Your personal PC destructor.
+
+  Options:
+  [^] Fill disks with C.S. (9 bytes) for 4 aperiodic cycle(s)       <Ctrl>-<F>
+  [x] Make an attempt to kill BIOS/UEFI               <Ctrl>-<Alt>-<Shift>-<B>
+
+  Type these numbers and submit (with Enter key):
+
+                   1r    0/0\0/0    LUCKY7     .6adsec
+                  1r1    /    /         L7     6
+                1r 1r    0     0     LUCKY!    6sector
+                   11    /     /      L7       6     6a
+                11r1rrr  0-0/0/0     L7        6adsect
+
+
+
+  [1] [0] [7] [6]
+                                             If you changed your mind,
+   ___     ___           ___  ____                  PRESS
+  |   |   |   |     |   |         |                <ESCAPE>
+  |   | ' |   |     | '  ---   ---|                TO STOP
+  |___| ' |___|     | '  ___| ____|           BEFORE DESTRUCTION.
+
+ (c) Larry "Diicorp95" Holst -- larry.holst@disroot.org        build 1 "Fossle"
+└─═ Cursor mark: ▁ ═───────────────────────────────────────═ Text Mode 80x25 ═─┘
+    }
+  }
+
+  Main procedure {
+    #define os 0
+    If Need Compile Under...
+    [ MS-DOS -> #define os 1
+    [ FreeDOS -> #define os 2
+    [ DR-DOS -> #define os 3
+    [ Windows 3.x -> #define os 4
+    [ Windows 9x -> #define os 5
+    [ Windows NT 4-5 -> #define os 6
+    [ Windows NT 6 -> #define os 7
+    [ Windows NT 10 -> #define os 8
+    [ Linux x86 kernel -> #define os 256
+    [ (absent/other) - ANSI C code (without OS-special code) ]
+
+    #define pcspeaker_test false
+    #ifdefine os <= 6 Then {
+      if Real System is 16-bit or 32-bit Then
+        #define pcspeaker_test true
+    }
+
+    #define res_vga_test true
+    #ifdefine os > 7 Then {
+      #define res_vga_test false
+        // Windows 10 requires minimum 800x600 display
+    }
+
+    #ifdefine os = ...
+    [ MS-DOS -> call prepare('MS-DOS')
+    [ FreeDOS -> call prepare('FreeDOS')
+    [ DR-DOS -> call prepare('DR-DOS')
+    [ Windows 3.x -> call prepare('Windows 3.x')
+    [ Windows 9x or NT 4-5 -> call prepare('Windows NT')
+    [ Windows NT 6 or 10 -> call prepare('Modern Windows')
+
+    #ifdefine os > 4 {
+      If (DirectDraw) Then {
+        engine ->= DirectDraw
+        frid = DirectDraw.new()
+        DirectDraw.fullscreen(frid)
+        Call MenuDraw('DirectDraw')
+      } Else {
+        engine ->= its own 2D engine
+        Call MenuDraw('2D canvas')
+      }
+    } Else {
+      If Possible To Use Direct VideoMemory I/O Then {
+        engine ->= VidMem I/O
+        Call MenuDraw(false)
+      }
+    }
+    #ifdefine os < 4 and os != 3 Then {
+      assembly_x86 {
+        mov AX,0x4C00
+        int 0x21
+        retf
+      }
+    } Else {
+      assembly_x86 {
+        int 0x20
+        retf
+      }
+    }
+  }
+
+= = = CODE STOPS HERE = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+  1. Pseudo-code (build for MS-DOS)
+    Phew...
+
+- - - - - - -  The paper was written by Larry Holst AKA Diicorp95  - - - - - - -

@@ -1,0 +1,27 @@
+Own privacy - a set of web tools with supporting information.
+
+Scraped from all over the internet.
+
+- https://deviceinfo.me
+- https://amiunique.org/fp
+- https://joindeleteme.com
+- https://www.whitepages.com
+- https://www.beenverified.com
+- https://www.spokeo.com
+- https://radaris.com
+- https://www.mylife.com
+- https://thispersondoesnotexist.com
+- https://www.name-generator.org.uk 
+- https://privacyangel.com/how-to-erase-yourself-from-the-internet
+- https://backgroundchecks.org
+- https://panopticlick.eff.org
+- https://coveryourtracks.eff.org
+- https://surfshark.com
+- https://www.privacytools.io
+- https://www.eff.org
+- https://stallman.org/facebook.html
+- https://madaidans-insecurities.github.io
+- https://www.youtube.com/techlore
+- https://www.youtube.com/TheHatedOne
+
+- - - - - - -  The paper was written by Larry Holst AKA Diicorp95  - - - - - - -

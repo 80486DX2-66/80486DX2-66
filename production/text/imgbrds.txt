@@ -1,0 +1,38 @@
+Document Title: Anime and booru-like imageboards list
+Collected By  : Larry "Diicorp95" Holst
+Used Tools    : Neural network (to follow hyperlinks and log websites)
+Last Update   : November 6th, 2021
+
+> Imageboards
+  > Big and complex
+  - https://zerochan.net
+  - https://chan.sankakucomplex.com [Partially paid]
+  - https://vndb.org
+  > Engine: Danbooru
+  - https://danbooru.donmai.us [Partially paid]
+  > Engine: Gelbooru
+  - https://rule34.xxx
+  - https://gelbooru.com
+  - https://xbooru.com
+  - https://safebooru.org
+  - https://tbib.org
+  > Engine: Moebooru
+  - https://konachan.com
+  - https://yande.re
+  > Engine: MyImouto
+  - https://hypnohub.net
+  > Engine: Shimmie
+  - https://rule34.paheal.net
+- http://www.minitokyo.net
+- https://guro.cx
+
+> Search engines
+  > Tag search
+  - https://cure.ninja/booru/
+  - http://infinitybooru.com
+  > Duplicate/image search
+  - https://gelbooru.iqdb.org
+  - https://saucenao.com
+ - https://e-shuushuu.net/search/
+
+- - - - - - -  The paper was written by Larry Holst AKA Diicorp95  - - - - - - -
