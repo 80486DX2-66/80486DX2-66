@@ -1,9 +1,10 @@
 ## Websites that I like
 :information_source: This list isn't static. I plan to update it.<br>
 :information_source: Not all the websites are covered.<br>
-:information_source: Perhaps later I'll have enough strength to describe each website and categorize.
+:information_source: Perhaps later I'll have enough energy to describe each website and categorize.
 
 List (from last to oldest added):
+* https://based.cooking/
 * https://oeis.org
 * https://freesoft.dev
 * http://www.robertecker.com
