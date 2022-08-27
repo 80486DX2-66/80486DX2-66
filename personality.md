@@ -3,7 +3,7 @@
 | :------------- | :---- |
 | Sexual orientation | [gynephilic](https://en.wikipedia.org/wiki/Androphilia_and_gynephilia#Gynephilia) |
 | Languages | English [CEFR C2], Russian [Native] |
-| Quirks of brain | [ADHD-PH](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder), [OCPD](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_personality_disorder), [HSP](https://en.wikipedia.org/wiki/Sensory_processing_sensitivity) |
+| Quirks of brain | [ADHD-PH](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder), [OCPD](https://en.wikipedia.org/wiki/Obsessive%E2%80%93compulsive_personality_disorder), [HSP](https://en.wikipedia.org/wiki/Sensory_processing_sensitivity), [GAD](https://en.wikipedia.org/wiki/Generalized_anxiety_disorder) |
 | Moral alignment | Good lawful |
 | MBTI | *(in the process of clarification)* |
 | Political convictions | [Crypto-anarchist](https://en.wikipedia.org/wiki/Crypto-anarchism), [Eudaimonist](https://en.wikipedia.org/wiki/Eudaimonia) |
