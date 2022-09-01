@@ -7,5 +7,5 @@
 | Moral alignment | Good lawful |
 | MBTI | INTJ (as described on [this webpage](https://mbti.ai/INTJ)) |
 | Political convictions | [Crypto-anarchist](https://en.wikipedia.org/wiki/Crypto-anarchism), [Eudaimonist](https://en.wikipedia.org/wiki/Eudaimonia) |
-| Obsessions | Bright lights, glare, sunlight; chemicals; justice, lawsuits; technology; music of certain genres |
+| Obsessions | Bright lights, glare, sunlight; chemicals; technology |
 | Frights | Sharp and pointed objects; suffering and disease; politics and politicians; flurry of, many things; pain; dirt (soil); sleep or dreams; surgical operations; poison or being poisoned; injury and mental trauma; evil, evil people |
