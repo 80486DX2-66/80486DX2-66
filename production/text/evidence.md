@@ -7,6 +7,7 @@ Plot twists and observations of the World, global humane society on the [Earth](
 </details>
 
 2022 list (from newest to oldest):
+* Life is about balance and harmony.
 * *999999&nbsp;&#8725;&nbsp;777&nbsp;=&nbsp;142857.0*.
 * An abundance of saturation often leads to a decrease in creativity. It is mostly about music and finding a soulmate.
 * To achieve clean code and high performance, write programs in a pure machine-dependent assembly language. Do not strive for easy portability to other platforms. This way you won't have to constantly increase your computer's resources.
