@@ -1,8 +1,10 @@
-# Diicorp95
+# Larry Holst
+
 | Characteristic | Value |
-| :------------- | :---- |
+| --: | :-- |
+| Lifeform | Cybernetic derivative of human |
 | Sexual orientation | [gynephilic](https://en.wikipedia.org/wiki/Androphilia_and_gynephilia#Gynephilia) |
-| Languages | English [CEFR C2], Russian [Native] |
+| Languages | English [Native, CEFR C2], Russian [Native, TORFL-IV] |
 | Quirks of brain | [ADHD-PH](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder), [HSP](https://en.wikipedia.org/wiki/Sensory_processing_sensitivity), [GAD](https://en.wikipedia.org/wiki/Generalized_anxiety_disorder) |
 | Moral alignment | Good lawful |
 | MBTI | INTJ (as described on [this webpage](https://mbti.ai/INTJ)) |
