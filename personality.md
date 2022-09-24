@@ -7,6 +7,7 @@
 | Languages | English [Native, CEFR C2], Russian [Native, TORFL-IV] |
 | Quirks of brain | [ADHD-PH](https://en.wikipedia.org/wiki/Attention_deficit_hyperactivity_disorder), [HSP](https://en.wikipedia.org/wiki/Sensory_processing_sensitivity), [GAD](https://en.wikipedia.org/wiki/Generalized_anxiety_disorder) |
 | Moral alignment | Good lawful |
+| Psychology | Rational egoist |
 | MBTI | INTJ (as described on [this webpage](https://mbti.ai/INTJ)) |
 | Political convictions | [Crypto-anarchist](https://en.wikipedia.org/wiki/Crypto-anarchism), [Eudaimonist](https://en.wikipedia.org/wiki/Eudaimonia) |
 | Obsessions | Bright lights, glare, sunlight; chemicals; technology |
