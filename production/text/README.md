@@ -9,8 +9,7 @@ List (from most recently updated to oldest):
 * [Anime and booru-like imageboards list](https://github.com/Diicorp95/Diicorp95/raw/main/production/text/imgbrds.txt)
 * [Adobe Flash Survival Kit 2021](https://github.com/Diicorp95/Diicorp95/raw/main/production/text/adobe-flash.txt)
 * [ASPTMB: a biogenetic project](https://github.com/Diicorp95/Diicorp95/raw/main/production/text/mstrmind.txt)
-* [Android devices with Google services](https://github.com/Diicorp95/Diicorp95/raw/main/production/text/fuck-gps.txt)
 * [Compkujo: an open-source program](https://github.com/Diicorp95/Diicorp95/raw/main/production/text/compkujo.txt)
 * [Chemical concepts](https://github.com/Diicorp95/Diicorp95/blob/main/production/text/chems.md)
 
-:copyright: Larry "Diicorp95" Holst, 2021-present in producing them. [MIT license](https://diicorp95.mit-license.org).
+:copyright: Larry "Diicorp95" Holst, 2021-present in producing them. Licensed under Creative Commons Zero 1.0 Universal.
