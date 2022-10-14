@@ -59,3 +59,6 @@ An anonymous:
 
 Ehssan:
 > Life is like a piano; the white keys represent happiness and the black show sadness. But as you go through life's journey, remember that the black keys also create music.
+
+An anonymous:
+> With any training, there must be a period of relaxation or else it will be similar to as if it never happened.
