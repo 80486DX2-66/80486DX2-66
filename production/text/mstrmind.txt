@@ -189,6 +189,6 @@ The vital organs are:
 - The creatures currently are being manufactured in Quadram Institute
   Bioscience of United Kingdom, NCNP of Japan, Detroit of United States.
 
-The document is distributed under MIT License.
+The document is licensed under Creative Commons Zero 1.0 Universal license.
 
 - - - - - - -  The paper was written by Larry Holst AKA Diicorp95  - - - - - - -
