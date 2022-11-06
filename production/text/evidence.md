@@ -7,6 +7,7 @@ Plot twists and observations of the World, global humane society on the [Earth](
 </details>
 
 2022 list (from newest to oldest):
+* Math is like classical music. People have forgotten why it is great.
 * Life is about balance and harmony.
 * *999999&nbsp;&#8725;&nbsp;777&nbsp;=&nbsp;142857.0*.
 * An abundance of saturation often leads to a decrease in creativity. It is mostly about music and finding a soulmate.
