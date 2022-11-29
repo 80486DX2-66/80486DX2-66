@@ -4,9 +4,9 @@
 <summary><a href="#"><img alt="" src="https://win98icons.alexmeub.com/icons/png/help_book_cool-1.png"></a>&nbsp;About me</summary>
 
 * [My personality](https://github.com/Diicorp95/Diicorp95/blob/main/personality.md)
-* [My favourite websites](https://github.com/Diicorp95/Diicorp95/blob/main/websites.md)
-* [My favourite software](https://github.com/Diicorp95/Diicorp95/blob/main/software.md)
-* [My favourite music](https://github.com/Diicorp95/Diicorp95/blob/main/music.md)
+* [My favorite websites](https://github.com/Diicorp95/Diicorp95/blob/main/websites.md)
+* [My favorite software](https://github.com/Diicorp95/Diicorp95/blob/main/software.md)
+* [My favorite music](https://github.com/Diicorp95/Diicorp95/blob/main/music.md)
 * [My favorite stuff](https://github.com/Diicorp95/Diicorp95/blob/main/favorites.md)
 * [My favorite quotes](https://github.com/Diicorp95/Diicorp95/blob/main/quotes.md)
 </details>
