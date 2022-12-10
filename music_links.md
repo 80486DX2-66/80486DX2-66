@@ -1,6 +1,6 @@
 # Music: Personal archive collection
 :information_source: This list is not static.<br>
-:information_source: This list is ot sorted yet.
+:information_source: This list is not sorted yet.
 
 * https://hantasi.bandcamp.com/album/liminal-spaces
 * https://globalpatterndigital.bandcamp.com/album/--10
