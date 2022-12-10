@@ -6,7 +6,10 @@
 * [My personality](https://github.com/Diicorp95/Diicorp95/blob/main/personality.md)
 * [My favorite websites](https://github.com/Diicorp95/Diicorp95/blob/main/websites.md)
 * [My favorite software](https://github.com/Diicorp95/Diicorp95/blob/main/software.md)
-* [My favorite music](https://github.com/Diicorp95/Diicorp95/blob/main/music.md)
+* My favorite music:
+  * [Main branch](https://github.com/Diicorp95/Diicorp95/blob/main/music.md)
+  * [Chiptune branch](https://github.com/Diicorp95/Diicorp95/blob/main/music_ct.md)
+  * [URL branch](https://github.com/Diicorp95/Diicorp95/blob/main/music_links.md)
 * [My favorite stuff](https://github.com/Diicorp95/Diicorp95/blob/main/favorites.md)
 * [My favorite quotes](https://github.com/Diicorp95/Diicorp95/blob/main/quotes.md)
 </details>
