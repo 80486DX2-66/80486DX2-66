@@ -179,3 +179,17 @@ I could not find some of them anywhere... Some of them produced way more modules
 * https://www.youtube.com/watch?v=kxAVZRJFKzk
 * https://megadrive.bandcamp.com
 * https://www.dualtrax.com
+* https://forceincmilleplateaux.bandcamp.com/album/statique
+* https://steveroach.bandcamp.com/album/into-the-majestic
+* https://blitzlunar.bandcamp.com/album/dichro-tracks
+* https://433records.bandcamp.com/album/music-for-recurring-decimals
+* https://kunsf.bandcamp.com/album/idle-2
+* https://taennya.bandcamp.com/album/natural-serenity
+* https://inquiri.bandcamp.com/album/seven
+* https://vbtape.bandcamp.com/album/intricate-oscillations
+* https://noise-a-noise.bandcamp.com/album/noise-noise-201
+* https://kaitlynaureliasmith.bandcamp.com/album/tides-music-for-meditation-and-yoga
+* https://pitp.bandcamp.com/album/stasis-sounds-for-long-distance-space-travel
+* https://cryochamber.bandcamp.com/album/furthermore
+* https://cryochamber.bandcamp.com/album/division-cycle
+* https://hilyard.bandcamp.com/album/somnolent
