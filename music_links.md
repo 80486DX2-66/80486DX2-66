@@ -81,3 +81,8 @@
 * https://cryochamber.bandcamp.com/album/furthermore
 * https://cryochamber.bandcamp.com/album/division-cycle
 * https://hilyard.bandcamp.com/album/somnolent
+* https://nodolabel.bandcamp.com/album/petrobio
+* https://tangerineproductions.bandcamp.com/album/first-breath
+* https://loif.bandcamp.com/album/active-mind
+* https://okegmusic.bandcamp.com/album/anther
+
